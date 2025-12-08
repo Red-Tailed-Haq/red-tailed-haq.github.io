@@ -1,6 +1,64 @@
 
+/*common colors*/
+
+.sienna-bg{
+    background-color: #E46F2F
+}
+
+.sienna-txt{
+    color: #E46F2F
+}
+
+.rosepink-bg{
+    background-color: #F6DBD9
+}
+
+.rosepink-txt{
+    color: #F6DBD9
+}
+
+.black-txt{
+    color: #21100A
+}
+
+.white-txt{
+    color: #F5F5F5
+}
+
+.white-bg{
+    color: #F5F5F5
+}
+
+.linen-bg{
+    background-color: #FCF2EC
+}
+
+.linen-txt{
+    color: #FCF2EC
+}
+
+.banner{
+    text-align: center;
+    padding: 1vh;
+    margin-top: 10vh;
+}
+.caption{
+    text-align: center;
+}
+
 p {
-    color: red;
+    margin-top: 0.5vw;
+    margin-left: 1vw;
+    margin-right: 1vw;
+    margin-bottom: 0.5vw;
+}
+
+video{
+    width: 90%; 
+    max-width: 920px; 
+    height: auto; 
+    margin: auto; 
+    display: block;
 }
 
 /*COLUMNS*/
