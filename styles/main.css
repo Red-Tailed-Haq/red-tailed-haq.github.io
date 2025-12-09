@@ -37,13 +37,27 @@
     color: #FCF2EC
 }
 
+/*quick styles*/
+
+.navbar{
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin: auto;
+    padding: 1px;
+}
+
 .banner{
     text-align: center;
     padding: 1vh;
-    margin-top: 10vh;
+    margin-top: 6vh;
 }
 .caption{
     text-align: center;
+    width: 90%; 
+    max-width: 1080px; 
+    margin: auto; 
 }
 
 p {
@@ -54,12 +68,24 @@ p {
 }
 
 video{
-    width: 90%; 
+    width: 85%; 
     max-width: 920px; 
     height: auto; 
     margin: auto; 
     display: block;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
 }
+
+/* body style*/
+
+html, body{
+    margin: 0;
+    padding: 0;
+    font-family: "Libre Baskerville", serif;
+    line-height: 2em;
+}
+
 
 /*COLUMNS*/
 .row {
