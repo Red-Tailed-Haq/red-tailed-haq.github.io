@@ -105,6 +105,10 @@ video{
     padding: 10px;
 }
 
+.bold {
+    font-weight: bold;
+}
+
 /* body style*/
 
 html, body{
